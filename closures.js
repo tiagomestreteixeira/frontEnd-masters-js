@@ -17,7 +17,7 @@ function createFunctionPrinter(input) {
 
 var printSample = createFunctionPrinter('sample');
 printSample();
-var printHello = createFunctionPrinter('hello');
+var printHello = createFunctionPrinter('hi');
 printHello();
 
 function outer() {
